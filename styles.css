@@ -506,6 +506,10 @@ body {
         padding: 0 var(--space-md) var(--space-xl);
     }
     
+    .tab-navigation {
+        margin-bottom: var(--space-md);
+    }
+    
     .content-card {
         padding: var(--space-xl) var(--space-lg);
         border-radius: 8px;
@@ -514,6 +518,7 @@ body {
     .tab-button {
         padding: var(--space-sm) var(--space-md);
         font-size: 0.9rem;
+        border-radius: 6px;
     }
     
     .header-links {
